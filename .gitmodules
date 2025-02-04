@@ -4,3 +4,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/SamRichter01/jams-and-jellies-gateway.git
+[submodule "catalog-API"]
+	path = catalog-API
+	url = https://github.com/SamRichter01/jams-and-jellies-catalog-api.git
