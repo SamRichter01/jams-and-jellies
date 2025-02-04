@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/SamRichter01/jams-and-jellies-frontend.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/SamRichter01/jams-and-jellies-gateway.git
